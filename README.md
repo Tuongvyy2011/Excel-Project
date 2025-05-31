@@ -29,5 +29,8 @@ https://github.com/user-attachments/assets/7c7de8b2-9b7f-48c3-88b8-d1b70b5b2142
 ## II. Excel Project From Alex The Analyst
 This is a practice exercise I learned from Alex The Analyst's YouTube video
 
+In this project, I created 3 basic charts about: Average income of bike purchasers, How far bike buyers live from their workplace, and Which age groups purchase bikes more frequently.
 
 https://github.com/user-attachments/assets/c2f97748-8438-40d5-8b42-1c074cae5da1
+
+And this is what I learned during my journey to becoming a data analyst. I hope it will help me greatly in my future career.
